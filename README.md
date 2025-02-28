@@ -1,2 +1,6 @@
-# Russia_2025
-PG BootCamp Russia 2025 - Yekaterinburg
+# About the event
+The fifth PGBootCamp Inititative event.
+Took place in Yekaterinburg, Russia, April 10, 2025
+
+Event website: [[[https://pgbootcamp.ru/en/2024-kazan](https://pgbootcamp.ru/en/2025-ekaterinburg)]]
+
